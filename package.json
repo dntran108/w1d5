@@ -1,0 +1,25 @@
+{
+   "name": "project-name",
+    "version": "1.0.0",
+    "description": "Short project summary",
+    "main": "index.js",
+    "scripts": {
+      "myscript": "ENV=development node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "s"
+  },
+  "keywords": [
+    "s"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
+
+
+
